@@ -9,4 +9,3 @@ def fizzbuzz(number)
   end
 end
 
-fizzbuzz("5")
